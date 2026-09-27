@@ -1,0 +1,8 @@
+# Compiled Java. Built from your .java files every time you run, so they are
+# not your work and they do not belong in your repository.
+*.class
+out/
+
+# IntelliJ's own settings for this project. They describe your machine, not
+# your program, and they cause pointless conflicts if you share them.
+.idea/
